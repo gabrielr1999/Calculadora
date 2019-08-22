@@ -1,7 +1,0 @@
-C:\Users\Gabriel Renan\Desktop\matriz1\matriz1\obj\Debug\matriz1.csprojAssemblyReference.cache
-C:\Users\Gabriel Renan\Desktop\matriz1\matriz1\obj\Debug\matriz1.csproj.CoreCompileInputs.cache
-C:\Users\Gabriel Renan\Desktop\matriz1\matriz1\bin\Debug\matriz1.exe.config
-C:\Users\Gabriel Renan\Desktop\matriz1\matriz1\bin\Debug\matriz1.exe
-C:\Users\Gabriel Renan\Desktop\matriz1\matriz1\bin\Debug\matriz1.pdb
-C:\Users\Gabriel Renan\Desktop\matriz1\matriz1\obj\Debug\matriz1.exe
-C:\Users\Gabriel Renan\Desktop\matriz1\matriz1\obj\Debug\matriz1.pdb
